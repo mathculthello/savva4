@@ -7,7 +7,7 @@
 - [Математика для гуманитариев](book)
 
 ___
-Наши ресурсы: [ЮТУБ](https://youtube.com/маткульт-привет), [ВК](http://vk.com/alexei_savvateev), [ИНСТА](https://www.instagram.com/aleksey_savvateev), [ЖЖ](https://savvateev.livejournal.com), [ТЕЛЕГА](https://t.me/savvateev_xyz), [ФБ](https://www.facebook.com/savvatan); донаты: [ПАТРЕОН](https://patreon.com/savvateev), [БУСТИ](https://boosty.to/savvateev)
+Наши ресурсы: [ЮТУБ](https://youtube.com/маткульт-привет), [ВК](http://vk.com/alexei_savvateev), [ИНСТА](https://www.instagram.com/aleksey_savvateev), [ЖЖ](https://savvateev.livejournal.com), [ТЕЛЕГА](https://t.me/savvateev_xyz) ([ЧАТ](https://t.me/punkmath)), [ФБ](https://www.facebook.com/savvatan); донаты: [ПАТРЕОН](https://patreon.com/savvateev), [БУСТИ](https://boosty.to/savvateev)
 
 ___
 

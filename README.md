@@ -7,15 +7,17 @@
 - [Математика для гуманитариев](book)
 
 ___
+
 Наши ресурсы: [ЮТУБ](https://youtube.com/маткульт-привет), [ВК](http://vk.com/alexei_savvateev), [ИНСТА](https://www.instagram.com/aleksey_savvateev), [ЖЖ](https://savvateev.livejournal.com), [ТЕЛЕГА](https://t.me/savvateev_xyz) ([ЧАТ](https://t.me/punkmath)), [ФБ](https://www.facebook.com/savvatan); 
+
 ___
 
 Поддержать популяризацию математики:
 - [ПАТРЕОН](https://patreon.com/savvateev)
 - [БУСТИ](https://boosty.to/savvateev)
 - Карта МИР Сбербанка: 2202 2002 5814 7386 (Алексей Владимирович С.)
-___
 
+___
 
 Дорогие друзья!
 

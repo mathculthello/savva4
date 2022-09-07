@@ -1,4 +1,4 @@
-[Конспект 100 уроков математики](https://github.com/nkrishelie/mathempire/raw/master/250/250le%C3%A7ons.pdf) и [сборник задач](https://github.com/nkrishelie/mathempire/raw/master/250/%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B8/250tasks.pdf)
+[Конспект 100 уроков математики](https://github.com/nkrishelie/mathempire/raw/master/250/250le%C3%A7ons.pdf)
 
 [Новая версия «100 уроков» по Президентскому гранту](https://www.youtube.com/playlist?list=PLqBfxn8OBMGrsA_YynaQWqHKhL7kEvL4X)
 

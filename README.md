@@ -13,8 +13,7 @@ ___
 ___
 
 Поддержать популяризацию математики:
-- [ПАТРЕОН](https://patreon.com/savvateev)
-- [БУСТИ](https://boosty.to/savvateev)
+- [SPONSR](https://sponsr.ru/savvateev)
 - Карта МИР Сбербанка: 2202 2002 5814 7386 (Алексей Владимирович С.)
 
 ---

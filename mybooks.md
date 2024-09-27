@@ -2,6 +2,7 @@
 
 - Книга «Математика для гуманитариев». 2017
   - Авторы: Алексей Савватеев
+  - Купить: [Читай-Город](https://www.chitai-gorod.ru/product/matematika-dlya-gumanitariev-zhivye-lekcii-2730257)
   - Скачать: последняя версия книги ([PDF](books/mat_dlya_gum/mat_dlya_gum.pdf)), предыдущая версия с фотографиями ([PDF](books/mat_dlya_gum/mat_dlya_gum.old.pdf))
 - Введение в настоящую математику. 2022
   - Авторы: Николай Казимиров, Алексей Савватеев

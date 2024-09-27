@@ -11,7 +11,7 @@
 ректор Университета Дмитрия Пожарского,
 Алексей Савватеев
 
-* [Купить](https://www.chitai-gorod.ru/catalog/book/994591/)
+* [Купить](https://www.chitai-gorod.ru/product/matematika-dlya-gumanitariev-zhivye-lekcii-2730257)
 * Скачать книгу [PDF](mat_dlya_gum.pdf) (последняя версия книги)
 * Скачать книгу [PDF](mat_dlya_gum.old.pdf) (предыдущая версия — с фотографиями)
 

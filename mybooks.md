@@ -9,6 +9,7 @@
   - Скачать: [PDF](books/vved_v_nast_mat/vved_v_nast_mat.pdf)
 - Занимательная экономика. Теория экономических механизмов от А до Я. 2023.
   - Авторы: Алексей Савватеев, Александр Филатов
+  - Купить: [Читай-Город](https://www.chitai-gorod.ru/product/zanimatelnaya-ekonomika-teoriya-ekonomicheskih-mehanizmov-ot-a-do-ya-2920478)
   - Скачать: [PDF](books/zam_eko/zam_eko.pdf)
 - Живая математика. Нематематическая книга о вдохновении, науке, образовании и жизни. 2024.
   - Авторы: Алексей Савватеев
